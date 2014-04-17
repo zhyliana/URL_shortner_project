@@ -1,4 +1,4 @@
-# URL Shortener
+URL Shortener
 
 This project will take an input URL and will
 shorten it for the user. Subsequent users can then give the shortened
